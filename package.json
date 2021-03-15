@@ -1,5 +1,5 @@
 {
-  "name": "@aswap/core",
+  "name": "aswap-core",
   "description": "🎛 Core contracts for the Aswap",
   "version": "1.0.0",
   "repository": {
